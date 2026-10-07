@@ -116,7 +116,7 @@ export default function HomePage() {
       </Stage>
 
       <div className="hero-overlay">
-        <div className="hero-kicker">3D ИНТЕРАКТИВТІ ОҚЫТУ PLATFORMASY</div>
+        <div className="hero-kicker">3D ИНТЕРАКТИВТІ ОҚЫТУ ПЛАТФОРМАСЫ</div>
         <h1 className="hero-title">ЭЛЕКТРОННЫҢ САЯХАТЫ</h1>
         <p className="hero-sub">
           Батарейканың ішінде не болып жатқанын, электрондардың қалай қозғалатынын және химиялық энергияның электр тогына қалай айналатынын өз көзіңмен көр.
